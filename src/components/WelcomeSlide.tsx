@@ -6,7 +6,7 @@ export const WelcomeSlide: React.FC = () => {
     <div className="flex flex-col items-center justify-center space-y-8 animate-fade-in">
       <Gamepad2 className="w-24 h-24 text-indigo-600 animate-bounce" />
       <h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600">
-        Office Games
+        Virtual Games
       </h1>
       <p className="text-2xl text-gray-600">Get ready for some fun!</p>
       <div className="flex space-x-4">

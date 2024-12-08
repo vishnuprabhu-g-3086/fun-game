@@ -163,7 +163,7 @@ function App() {
       return (
         <GameIntro
           title="Country Names & Logos"
-          description="Guess The Country Name And Logos!"
+          description="Guess The Country Names And Logos!"
           icon={Globe}
         />
       );
